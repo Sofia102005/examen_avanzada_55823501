@@ -1,3 +1,10 @@
 *{
     background-color: brown;
 }
+
+form {
+background-color: blue;
+padding: 20 px;
+left: auto;
+border: black;
+}
